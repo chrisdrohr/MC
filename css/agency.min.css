@@ -283,6 +283,7 @@
  			.intro-text .intro-heading{
  				font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
  				text-transform:uppercase;
+				background-color: rgba(254,209,54,.5);
  				font-weight:700;
  				font-size:75px;
  				line-height:75px;
@@ -489,7 +490,7 @@
  																				}
  																				.portfolio-modal .modal-dialog{
  																					margin:0;
- 																					height:100%;
+ 																					height:90%;
  																					width:auto
  																					}
  																					.portfolio-modal .modal-content{
