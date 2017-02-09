@@ -243,6 +243,38 @@
  		-o-background-size:cover;
  		text-align:center;color:#fff
  		}
+	.music {
+ 			background-image:url(../img/music.jpg);
+ 		background-repeat:no-repeat;
+ 		background-attachment:scroll;
+ 		background-position:center center;
+ 		-webkit-background-size:cover;
+ 		-moz-background-size:cover;
+ 		background-size:cover;
+ 		-o-background-size:cover;
+ 		text-align:center;
+		 color:#fff
+ 		}
+		 .instruction {
+ 			background-image:url(../img/instruction.jpg);
+ 		background-repeat:no-repeat;
+ 		background-attachment:scroll;
+ 		background-position:center center;
+ 		-webkit-background-size:cover;
+ 		-moz-background-size:cover;
+ 		background-size:cover;
+ 		-o-background-size:cover;
+ 		text-align:center;
+		 color:#fff
+ 		}
+		 .music-text{
+			 background-color: rgba(254,209,54,.5);
+			 font-size: 18px;
+		 }
+		 .instruction-text{
+			 	 background-color: rgba(254,209,54,.5);
+			 font-size: 18px;
+		 }
  		header 
  		.intro-text{
  			padding-top:100px;
@@ -362,9 +394,9 @@
  								#portfolio .portfolio-item .portfolio-caption{
  									max-width:400px;
  									margin:0 auto;
- 									background-color:#fff;
- 									text-align:center;
- 									padding:25px
+ 									/*background-color:#fff;*/
+ 									/*text-align:center;*/
+ 									padding:20px;
  									}
  									#portfolio .portfolio-item .portfolio-caption 
  									h4{
