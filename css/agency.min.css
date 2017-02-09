@@ -349,7 +349,7 @@
  					text-transform:none
  					}
  					#portfolio .portfolio-item{
- 						margin:0 0 15px;
+ 						/*margin:0 0 15px;*/
  						right:0
  						}
  						#portfolio .portfolio-item .portfolio-link{
@@ -377,7 +377,7 @@
  							height:20px;
  							font-size:20px;
  							text-align:center;
- 						top:50%;
+ 						/*top:50%;*/
  						margin-top:-12px;
  						/*color:#fff*/
  						}
@@ -396,7 +396,7 @@
  									margin:0 auto;
  									/*background-color:#fff;*/
  									/*text-align:center;*/
- 									padding:20px;
+ 									padding:15px;
  									}
  									#portfolio .portfolio-item .portfolio-caption 
  									h4{
